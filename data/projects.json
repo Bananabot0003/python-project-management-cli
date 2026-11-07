@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "email": "alex@example.com",
+      "projects": [
+        {
+          "title": "CLI Tool",
+          "owner": "Alex",
+          "description": "",
+          "tasks": [
+            {
+              "title": "Write code",
+              "description": "",
+              "completed": true,
+              "contributors": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
